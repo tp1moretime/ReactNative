@@ -5,9 +5,10 @@ import { UserProvider } from '../demobuoi13/UserContext';
 const AppNavigator = () => {
   return (
     <UserProvider>
- 
+
+   
         <AppTabs />
-    
+      
     </UserProvider>
   );
 };
