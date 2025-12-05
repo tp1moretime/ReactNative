@@ -1,5 +1,5 @@
-import AppNavigator3 from '../../components (1)/buoi15/AppNavigator3';
+import AppNavigator from '../../components/buoi15_1/AppNavigator';
 
 export default function HomeScreen() {
-  return <AppNavigator3 />;
+  return <AppNavigator />;
 }

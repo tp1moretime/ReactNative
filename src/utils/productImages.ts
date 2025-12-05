@@ -1,0 +1,15 @@
+export const productImages: Record<string, any> = {
+    'acura_PNG120.png': require('../../assets/images/acura_PNG120.png'),
+    'acura_PNG122.png': require('../../assets/images/acura_PNG122.png'),
+    'hyundai_PNG112.png': require('../../assets/images/hyundai_PNG112.png'),
+    'hyundai_PNG11238.png': require('../../assets/images/hyundai_PNG11238.png'),
+    'hyundai_PNG11241.png': require('../../assets/images/hyundai_PNG11241.png'),
+    'lamborghini1.png': require('../../assets/images/lamborghini1.png'),
+    'lamborghini2.png': require('../../assets/images/lamborghini2.png'),
+    'lamborghini3.png': require('../../assets/images/lamborghini3.png'),
+    'lamborghini4.png': require('../../assets/images/lamborghini4.png'),
+    'tesla_cybertruck1.png': require('../../assets/images/tesla_cybertruck1.png'),
+    'tesla_cybertruck2.png': require('../../assets/images/tesla_cybertruck2.png'),
+    'tesla_cybertruck3.png': require('../../assets/images/tesla_cybertruck3.png'),
+    'tesla_cybertruck5.png': require('../../assets/images/tesla_cybertruck5.png'),
+};
